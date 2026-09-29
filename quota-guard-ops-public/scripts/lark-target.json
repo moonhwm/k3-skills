@@ -1,0 +1,8 @@
+{
+  "open_id": "ou_57a60277b5a2821186f4e7542c85d13f",
+  "chat_id": "oc_6da35172609f57946915b8534a6f242c",
+  "user_name": "机主",
+  "app_id": "cli_aa3f9a00ed38dcea",
+  "bound_at": "2026-09-24",
+  "note": "lark 直推通道目标标识（非密钥，可入技能包）。bot 身份一次绑定永久有效；appId/appSecret 由 lark-cli 本地配置保管，沙箱重建后从 /mnt/agents/upload/lark-cli-config-backup/ 恢复 ~/.lark-cli 即免再授权。"
+}
